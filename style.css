@@ -1,0 +1,70 @@
+.color {
+    background-color: #17a2b8;
+    height: 100px;
+    width: 600px;
+    border: #cccccc;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    position: relative;
+    top: 7px;
+}
+
+.info {
+    height: 200px;
+    width: 600px;
+    background-color: white;
+    border: #cccccc;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+#user {
+    height: 70px;
+    width: 70px;
+    margin: 0px 20px;
+    border: #cccccc;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50%;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+h1 {
+    margin: 0px 0px 5px 20px;
+}
+
+#location {
+    display: flex;
+    margin-bottom: 5px;
+}
+#marker {
+    height: 20px;
+    margin: 0px 0px 0px 20px;
+    width: auto;
+}
+h2 {
+    margin: 0px 15px;
+}
+
+p {
+    margin: 0px 20px;
+}
+
+#settings{
+    display: flex;
+}
+#gear {
+    height: 20px;
+    width: auto;
+    margin: 10px 0px 0px 20px;
+}
+a {
+    margin: 10px 15px;
+}
